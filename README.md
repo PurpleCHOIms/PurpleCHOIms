@@ -1,86 +1,161 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=Venom&text=MinSeok&height=200&fontColor=ffffff&color=000000&animation=twinkling&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Venom\&text=MinSeok\&height=200\&fontColor=ffffff\&color=000000\&animation=twinkling\&fontSize=40)
 
-  ## 👋 Welcome to My GitHub Profile!
+## 👋 Welcome to My GitHub Profile!
 
-  [🌐 Visit My Portfolio](https://PurpleCHOIms.github.io/)
+[🌐 Visit My Portfolio](https://PurpleCHOIms.github.io/)
 
   <br/>
   <br/>
 
-  ### 📋 About Me
+### 📋 About Me
 
 </div>
 
 ---
 
+## 🚀 Who I Am
+
+AI-powered Offensive Security Engineer & Founder
+Focused on building **Autonomous Red Teaming Systems** using LLMs and multi-agent architectures.
+
+* 🧠 AI + Cybersecurity convergence
+* 🛠️ Offensive security automation (LLM-based)
+* 🏴‍☠️ Exploit generation & attack simulation
+* 🚀 Founder of **PurpleAILAB**
+
+---
+
+## 🚨 Featured Projects
+
+### 🔥 Decepticon — Autonomous Red Team Agent
+
+[🔗 GitHub Repository](https://github.com/PurpleAILAB/Decepticon)
+
+* Built a **professional autonomous red teaming system**, not a scanner-based tool
+* Executes full attack lifecycle:
+
+  * Reconnaissance → Exploitation → Privilege Escalation → Lateral Movement → C2
+* Generates **OPPLAN, RoE, and MITRE ATT&CK-based attack strategies**
+* Uses **multi-agent architecture (LangGraph-based)**
+
+#### ⚡ Highlights:
+
+* Realistic **attack chain execution**, not checklist scanning
+* Interactive offensive tooling (tmux-based execution environment)
+* Sandbox-isolated attack infrastructure
+* Supports multiple LLM providers & local models
+
+---
+
+### 🧠 Sapiens / Vigilo — Autonomous Vulnerability Research Agent
+
+[🔗 Research Findings](https://github.com/PurpleAILAB/Vigilo/blob/main/findings/cantina-rounding-accumulation.md)
+
+* Developed an **AI agent for autonomous vulnerability discovery**
+* Focused on:
+
+  * Web applications
+  * Smart Contracts (Web3)
+* Designed for:
+
+  * Bug bounty
+  * Audit contests
+  * Real-world exploit research
+
+#### 🏆 Real-World Impact:
+
+* Discovered vulnerability in **Cantina Bug Bounty Program**
+* Demonstrated **rounding accumulation vulnerability analysis**
+* Applied **LLM-based reasoning to real exploit scenarios**
+
+---
+
 ## 🏆 Awards
-- **2016.11.04** | 2nd Place - Global Innovator Festa (GIF) Ideathon  
-  _Awarded by the Center for Creative Economy and Innovation_
-- **2017.10.28** | Finalist & Encouragement Award - National High School SW Club Competition  
-  _Hosted by KAIST and Chungnam National University_
-- **2022.10.28** | Encouragement Award - 7th Global Innovator Festa (GIF)  
-  _Awarded by Korea Startup Foundation (D.CAMP)_
-- **2022.09.31** | Encouragement Award - Public Data Utilization Challenge  
-  _Hosted by ICT Innovation Square_
+
+* **2016.11.04** | 2nd Place - Global Innovator Festa (GIF) Ideathon
+* **2017.10.28** | Finalist - National High School SW Club Competition
+* **2022.10.28** | Encouragement Award - Global Innovator Festa
+* **2022.09.31** | Encouragement Award - Public Data Utilization Challenge
 
 ---
 
 ## 🧠 Software Education
 
 ### 🔐 2023.03 ~ 2023.12 | KISIA AI Security - Malware Analysis Track
-- Developed malware detection AI models
-- Learned foundational AI algorithms
-- Trained detection models using real, labeled malware datasets
 
-#### 🔬 Project: Malware Analysis Workflow with LLM
-A web-based service that detects potential malware, analyzes file metadata, and provides malicious behavior insights using GPT API.  
-[🔗 GitHub Repository](https://github.com/havavavava/Malicious_code_analysis_with_GPT)
+* Developed **AI-based malware detection models**
+* Studied **ML & adversarial techniques**
+* Conducted **LLM-based malware analysis automation**
+
+[🔗 GitHub](https://github.com/havavavava/Malicious_code_analysis_with_GPT)
 
 ---
 
 ### 🧑‍💻 2023.09 ~ 2024.04 | BOB White Hat School - 1st Cohort
-- Appointed Team Representative
-- Studied: System Hacking, Web Hacking, Digital Forensics, Cloud Security
 
-#### 💡 Project: NLP-based Exploit Code Automation
-Designed and implemented an NLP-powered system that generates SQLi and XSS payloads.  
-Presented at CISC-S'24 (Korea Institute of Information Security and Cryptology Summer Conference).  
-[🔗 GitHub Repository](https://github.com/BOB-WHS-PurpleTeamAI/Purple_Team_AI)
+* Team Representative
 
----
+* Specialized in **Web / System Hacking / Cloud Security**
 
-### 🛡️ 2024.08 ~ 2024.10 | K-Shield Jr. 13th Cohort - Incident Response
-- Understanding of OS artifacts and digital forensics
-- Learned incident response methodologies
-- Analyzed real-world attack scenarios
+* Built **NLP-based exploit automation system**
 
-#### 🧪 Project: sLM-based SQLi Payload Generator & Web Attack Simulator
-- Built an offensive security simulation using fine-tuned LLMs
-- Developed attack payloads via prompt engineering
-- Built test environments and ran simulations using Selenium
+* Presented at **CISC-S'24**
+
+[🔗 GitHub](https://github.com/BOB-WHS-PurpleTeamAI/Purple_Team_AI)
 
 ---
 
-## 📚 Tech Activities
-- **2017.10.26** | Participated in the 11th Open Source Software Developer Contest  
-- **2021.11.05** | Attended the 11th Secure Software Development Conference  
-- **2021.11.12** | Competed in KISA AI+Security Competition (Purple Team AI)
+### 🛡️ 2024.08 ~ 2024.10 | K-Shield Jr. - Incident Response
+
+* Digital forensics & attack analysis
+* LLM-based attack simulation
+
+---
+
+### 🛡️ 2025.06 ~ 2026.03 | BoB 14th - Security Product Development Track
+
+* Focused on **AI-based security product development**
+
+#### 🏆 Achievement:
+
+* 🥇 **Grand Prix 1st Place (Startup Track)**
+
+#### 🚀 Project:
+
+* Built **Sapiens: Autonomous Vulnerability Detection Agent**
+* Extended into **real-world bug bounty research (Vigilo)**
 
 ---
 
 ## 🚀 Startup Experience
 
-### 👨‍💼 Since 2023.06 | CEO at **PurpleAILAB**
-  
-- **2024.04 ~ 2024.12** | Selected for Gyeongsan City Youth Startup Incubation Program  
-  _Funding awarded: 12,000,000 KRW_
+### 👨‍💼 CEO at PurpleAILAB (Since 2023.06)
+
+* Building **Decepticon (Autonomous Red Team System)**
+* Researching **AI-driven offensive security automation**
+* Developing multi-agent attack workflows
+
+#### 🧠 Vision:
+
+> Automating cybersecurity offensive operations
+> → Toward **continuous autonomous red teaming**
+
+---
+
+## 🔥 Core Focus
+
+* Autonomous Red Teaming (AI Agents)
+* Offensive Security Automation using LLMs
+* AI-driven Exploit Generation
+* Web & Smart Contract Security
+* Real-world Vulnerability Research
 
 ---
 
 <div align="center">
 
-  🔥 _Passionate about AI, cybersecurity, and building the future of autonomous red teaming._
+🔥 *Building the future of AI-driven cybersecurity.*
 
 </div>
